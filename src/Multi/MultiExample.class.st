@@ -45,6 +45,7 @@ MultiExample >> run [
 			frame := frame + 1.
 			
 			].
+	
 	canvas open
 		setLabel: 'Multi';
 		position: 0@50;
